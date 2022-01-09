@@ -1,0 +1,25 @@
+body{
+    background-color: cornsilk;
+}
+h1{
+    color: cornsilk;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+p{
+    background-color: coral;
+    color: wheat;
+    padding: 5px;
+    text-align: center;
+}
+h2{
+    color: orangered;
+    text-align: center;
+    background-color: lightgreen;
+    padding: 8px;
+}
+img{
+    height: 400px;
+    width: 700px;
+}
